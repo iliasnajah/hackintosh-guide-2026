@@ -63,7 +63,7 @@ Hackintosh-Guide-2026/
 * **OCAuxiliaryTools (OCAT)** — https://github.com/ic005k/OCAuxiliaryTools  
 * **Rufus** — https://rufus.ie/en/  
 * **Community help** — https://www.reddit.com/r/hackintosh/  
-* **Video walkthrough (optional)** — user-supplied video link  
+* **Video walkthrough (optional)** — https://www.youtube.com/watch?v=tOAbA4UL-Kk&t=110s 
 
 ---
 
