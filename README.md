@@ -1,4 +1,3 @@
-```markdown
 # Hackintosh-Guide-2026
 
 **Simple, up-to-date OpenCore Hackintosh guide (2026)**  
