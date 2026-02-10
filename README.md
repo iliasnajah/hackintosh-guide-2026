@@ -36,8 +36,6 @@ This repository collects the modern workflow (Windows-based) to create a bootabl
 * Python 3 (for macrecovery scripts and USB mapping).  
 * Basic familiarity with BIOS/UEFI, disk partitioning, and editing `config.plist`.
 
----
-
 ````
 
 ---
