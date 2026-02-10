@@ -38,18 +38,6 @@ This repository collects the modern workflow (Windows-based) to create a bootabl
 
 ---
 
-## Repo layout (suggested)
-
-```
-
-Hackintosh-Guide-2026/
-├─ README.md
-├─ LICENSE
-├─ assets/        <-- screenshots, diagrams
-├─ efi-samples/   <-- example EFI structure
-├─ scripts/       <-- commands, batch/python scripts
-└─ docs/          <-- troubleshooting and notes
-
 ````
 
 ---
